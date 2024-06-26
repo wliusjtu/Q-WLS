@@ -1,6 +1,7 @@
 # Quasi Weighted Least Squares
 
 This is the released code for the following paper accepted to International Journal of Computer Vision:
+
 *Fast Global Image Smoothing via Quasi Weighted Least Squares.* Wei Liu, Pingping Zhang, Hongxing Qin, Xiaolin Huang, Jie Yang, Michael Ng, International Journal of Computer Vision (IJCV), 2024
 
 **Usage:**
