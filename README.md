@@ -6,7 +6,7 @@ This is the released code for the following paper accepted to International Jour
 
 **Usage:**
 1. run mexFile.m to compile the file first.
-2. run Test.m for examples usage of the function.
+2. run Test.m for example usage of the function.
 
 ---------------------------------
  **Related Work:**
