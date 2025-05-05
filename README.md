@@ -5,8 +5,8 @@ This is the released code for the following paper accepted to International Jour
 *Fast Global Image Smoothing via Quasi Weighted Least Squares.* Wei Liu, Pingping Zhang, Hongxing Qin, Xiaolin Huang, Jie Yang, Michael Ng, International Journal of Computer Vision (IJCV), 2024
 
 **Usage:**
-1. run mexFile.m to compile the file first.
-2. run the example functions for different tasks.
+1. run mexFile.m in the "funs" folder to compile all the C files first.
+2. run the example functions for different tasks. 
 
 
 ---------------------------------
